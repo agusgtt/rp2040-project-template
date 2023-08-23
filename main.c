@@ -1,5 +1,6 @@
 /*Notas de trabajo
-
+    esto es una prueba de git 
+    
 para agregar el encoder:
     usar un timer con ISR 
     implementar funcion de gray a int
