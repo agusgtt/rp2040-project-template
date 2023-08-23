@@ -1,6 +1,6 @@
 /*Notas de trabajo
-    esto es una prueba de git 
     
+
 para agregar el encoder:
     usar un timer con ISR 
     implementar funcion de gray a int
@@ -19,7 +19,7 @@ display
 #include "hardware/i2c.h"
 #include "pico/binary_info.h"
 #include "header.h" 
-#include "i2c-display-lib.h"
+
 //
 #define I2C_PORT i2c0
 //sensor de temperatura

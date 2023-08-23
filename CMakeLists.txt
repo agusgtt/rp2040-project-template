@@ -6,10 +6,8 @@ pico_sdk_init()
 
 add_executable(template
     main.c
-    lcd_1602_i2c.c
-)
-#incluimos el display
-target_include_directories(template PUBLIC ./include)
+    )
+
 # Add pico_stdlib library, add more if used
 target_link_libraries(template 
     pico_stdlib
